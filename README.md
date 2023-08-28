@@ -17,7 +17,7 @@ This project is a Spotify clone built using HTML, CSS, and JavaScript, aiming to
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/AdityaSingh-100/Spotify-Clone.git
    ```
 
 2. Open the project folder in your preferred code editor.
