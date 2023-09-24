@@ -1,7 +1,7 @@
 <!--# Spotify-Clone
 Experience the thrill of music streaming with our Spotify Clone. Built using HTML, CSS, and JavaScript, our clone offers a user-friendly interface for seamless navigation. Play, pause and next and previous -->
-# Spotify Clone 
-This project is a Spotify clone built using HTML, CSS, and JavaScript, aiming to replicate the basic functionality of the popular music streaming platform. The main focus of this clone is to provide users with the ability to play, pause, and navigate to the previous track, mimicking the core playback features of Spotify.
+# MusicBee
+This project is a MusicBee built using HTML, CSS, and JavaScript, aiming to replicate the basic functionality of the popular music streaming platform. The main focus of this clone is to provide users with the ability to play, pause, and navigate to the previous track, mimicking the core playback features of MusicBee.
 
 ## Features
 
@@ -17,12 +17,12 @@ This project is a Spotify clone built using HTML, CSS, and JavaScript, aiming to
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/AdityaSingh-100/Spotify-Clone.git
+   git clone https://github.com/AdityaSingh-100/MusicBee.git
    ```
 
 2. Open the project folder in your preferred code editor.
 
-3. Launch the `index.html` file in a web browser to start using the Spotify clone.
+3. Launch the `index.html` file in a web browser to start using the MusicBee.
 
 ## Usage
 
@@ -37,8 +37,8 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 ## Acknowledgments
 
-- This project was inspired by the user interface and playback controls of Spotify.
+- This project was inspired by the user interface and playback controls of MusicBee.
 
 ---
 
-Enjoy your experience with the Spotify Clone project! Play your favorite tracks, pause when needed, and easily navigate to the previous song, all within this simple yet functional clone. If you encounter any issues or have suggestions, don't hesitate to reach out and contribute to the project's development.
+Enjoy your experience with the MusicBee project! Play your favorite tracks, pause when needed, and easily navigate to the previous song, all within this simple yet functional clone. If you encounter any issues or have suggestions, don't hesitate to reach out and contribute to the project's development.
