@@ -41,4 +41,4 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 ---
 
-Enjoy your experience with the MusicBee project! Play your favorite tracks, pause when needed, and easily navigate to the previous song, all within this simple yet functional clone. If you encounter any issues or have suggestions, don't hesitate to reach out and contribute to the project's development.
+Enjoy your experience with the MusicBee project! Play your favorite tracks, pause when needed, and easily navigate to the previous song, all within this simple yet functional App. If you encounter any issues or have suggestions, don't hesitate to reach out and contribute to the project's development.
