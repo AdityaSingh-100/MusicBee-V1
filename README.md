@@ -1,4 +1,4 @@
-<!--# Spotify-Clone
+<!--# MusicBee
 Experience the thrill of music streaming with our Spotify Clone. Built using HTML, CSS, and JavaScript, our clone offers a user-friendly interface for seamless navigation. Play, pause and next and previous -->
 # MusicBee
 This project is a MusicBee built using HTML, CSS, and JavaScript, aiming to replicate the basic functionality of the popular music streaming platform. The main focus of this clone is to provide users with the ability to play, pause, and navigate to the previous track, mimicking the core playback features of MusicBee.
