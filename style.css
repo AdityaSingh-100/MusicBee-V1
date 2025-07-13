@@ -2,10 +2,6 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:ital,wght@1,200&family=Ubuntu&family=Varela+Round&display=swap");
 
-body {
-  background: url(img2.jpg);
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -15,28 +11,19 @@ nav {
   font-family: "Ubuntu", sans-serif;
 }
 
-/* vid */
-
-/* video {
-  object-fit: cover;
-  width: 100vw;
-  height: 100vh;
-  position: fixed;
-  top: 0;
-  left: 0;
-} */
 /* By using display flex in parent element, child elements automatically align like column or row with auto width and auto height*/
+
 nav ul {
   display: flex;
   align-items: center;
-  list-style-type: none; /* for no dotted points*/
+  list-style-type: none;
   height: 65px;
-  background-color: black;
+  background-color: #171719;
   color: white;
 }
-
 nav ul li {
   padding: 22px 12px;
+  font-size: 20px;
 }
 
 nav ul li:link {
@@ -44,7 +31,7 @@ nav ul li:link {
 }
 
 .brand img {
-  width: 44px;
+  width: 80px;
   padding: 0 8px;
 }
 
@@ -53,28 +40,41 @@ nav ul li:link {
   align-items: center;
   font-weight: bolder;
   font-size: 1.3rem;
+  /* color: white; */
 }
 
 .container {
-  min-height: 72vh;
-  /* background-color: black; */
+  /* min-height: 72vh; */
+  max-height: fit-content;
   color: white;
   font-family: "Varela Round", sans-serif;
-  /* display: flex; */
-  margin: 23px auto;
-  /* width: 70%; */
-  border-radius: 12px;
-  padding: 34px;
-  /* background: transparent; */
 
-  /* background-image: url("bg1.jpg"); */
-  background-size: cover; /* For full image cover*/
+  background-size: cover;
+  background: rgb(28, 27, 30);
+  background: linear-gradient(
+    58deg,
+    rgb(33, 33, 36) 0%,
+    rgb(21, 21, 23) 35%,
+    rgb(27, 29, 29) 100%
+  );
 }
+
+body {
+  background: rgb(12, 12, 12);
+  background: linear-gradient(
+    58deg,
+    rgb(33, 33, 36) 0%,
+    rgb(21, 21, 23) 35%,
+    rgb(27, 29, 29) 100%
+  );
+}
+
 .bottom {
   position: sticky;
   bottom: 0;
   height: 100px;
-  background-color: black;
+
+  background-color: #171719;
   color: white;
   display: flex;
   justify-content: center;
@@ -94,12 +94,6 @@ nav ul li:link {
   width: 80vw;
   cursor: pointer;
 }
-/* .songItemContainer {
-  margin-top: 74px;
-  display: flex;
-  flex-direction: row;
-  border: 2px solid yellow;
-} */
 
 .songList {
   display: flex;
@@ -123,9 +117,15 @@ nav ul li:link {
   align-items: center;
   border-radius: 15px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  /* box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5); */
-  /* background: rgba(255, 255, 255, 0.1); */
-  background: rgba(11, 155, 18, 0);
+
+  background: rgb(28, 27, 30);
+  background: linear-gradient(
+    58deg,
+    rgb(33, 33, 36) 0%,
+    rgb(21, 21, 23) 35%,
+    rgb(27, 29, 29) 100%
+  );
+
   overflow: hidden;
 
   border-top: 1px solid rgba(255, 255, 255, 0.5);
